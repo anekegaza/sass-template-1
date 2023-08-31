@@ -53,6 +53,10 @@
 /******************************************/
 /* 3. Html tag styling */
 
+html {
+  scroll-padding-top: 3rem;
+}
+
 img {
   width: 100%;
 }
@@ -765,6 +769,7 @@ section {
 /******************************************/
 /* 12. Pricing section */
 .section-pricing {
+  margin-top: -4rem;
 }
 
 @media (min-width: 768px) {
