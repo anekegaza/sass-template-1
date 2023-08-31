@@ -769,11 +769,11 @@ section {
 /******************************************/
 /* 12. Pricing section */
 .section-pricing {
-  margin-top: -4rem;
 }
 
 @media (min-width: 768px) {
   .section-pricing {
+    margin-top: -4rem;
     background-image: linear-gradient(
         to right,
         rgba(255, 255, 255, 0.8),
